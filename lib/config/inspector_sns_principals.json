@@ -1,0 +1,38 @@
+{
+  "us-west-2": {
+    "ARN": "arn:aws:iam::758058086616:root"
+  },
+  "us-west-1": {
+    "ARN": "arn:aws:iam::166987590008:root"
+  },
+  "us-east-2": {
+    "ARN": "arn:aws:iam::646659390643:root"
+  },
+  "us-east-1": {
+    "ARN": "arn:aws:iam::316112463485:root"
+  },
+  "ap-south-1": {
+    "ARN": "arn:aws:iam::162588757376:root"
+  },
+  "ap-northeast-2": {
+    "ARN": "arn:aws:iam::526946625049:root"
+  },
+  "ap-southeast-2": {
+    "ARN": "arn:aws:iam::454640832652:root"
+  },
+  "ap-northeast-1": {
+    "ARN": "arn:aws:iam::406045910587:root"
+  },
+  "eu-central-1": {
+    "ARN": "arn:aws:iam::537503971621:root"
+  },
+  "eu-west-1": {
+    "ARN": "arn:aws:iam::357557129151:root"
+  },
+  "eu-west-2": {
+    "ARN": "arn:aws:iam::146838936955:root"
+  },
+  "eu-north-1": {
+    "ARN": "arn:aws:iam::453420244670:root"
+  }
+}

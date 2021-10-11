@@ -1,0 +1,8 @@
+.idea/
+.DS_Store
+node_modules/
+cdk.out/
+bin/**/*.js
+*.d.ts
+lib/**/*.js
+package-lock.json

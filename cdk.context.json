@@ -1,0 +1,7 @@
+{
+  "inspectorSnsTopicName": "SNS-Topic-for-Inspector-Findings",
+  "firehoseStreamName": "FirehoseStackFirehoseStream",
+  "centralAccountId": "3",
+  "centralRegion": "us-west-2",
+  "workloadAccountId": "7"
+}

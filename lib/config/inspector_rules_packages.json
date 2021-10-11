@@ -1,0 +1,14 @@
+{
+  "us-west-2": {
+    "CVE": "arn:aws:inspector:us-west-2:758058086616:rulespackage/0-9hgA516p",
+    "CIS": "arn:aws:inspector:us-west-2:758058086616:rulespackage/0-H5hpSawc",
+    "securityBestPractices": "arn:aws:inspector:us-west-2:758058086616:rulespackage/0-JJOtZiqQ",
+    "networkReachability": "arn:aws:inspector:us-west-2:758058086616:rulespackage/0-rD1z6dpl"
+  },
+  "us-west-1": {
+    "CVE": "arn:aws:inspector:us-west-1:166987590008:rulespackage/0-TKgzoVOa",
+    "CIS": "arn:aws:inspector:us-west-1:166987590008:rulespackage/0-xUY8iRqX",
+    "securityBestPractices": "arn:aws:inspector:us-west-1:166987590008:rulespackage/0-byoQRFYm",
+    "networkReachability": "arn:aws:inspector:us-west-1:166987590008:rulespackage/0-TxmXimXF"
+  }
+}
